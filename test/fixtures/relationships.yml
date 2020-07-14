@@ -1,0 +1,12 @@
+one:
+  follower: aze
+  followed: lana
+two:
+  follower: aze
+  followed: bob
+three:
+  follower: lana
+  followed: aze
+four:
+  follower: bob
+  followed: aze
